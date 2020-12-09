@@ -1,4 +1,4 @@
-# SNic Assignemnt by: Vikas Chhipi 
+# By Vikas Chhipi 
 
 
 ## Assignment : 
